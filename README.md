@@ -18,7 +18,7 @@ ST-UTIL: starts utility server to talk to board
 DEBUG: starts debug console and hooks to server
 
 ## Contact
-Maintainer: [Sharan ***REMOVED***](https://github.com/***REMOVED***)  ***REMOVED***
+Maintainer: [Sharan ***REMOVED***](https://github.com/AtomicAntimatter)  ***REMOVED***
 
 ## LICENSE
 Audio Visualizer is available under the MIT License. See the LICENSE file for more info.
